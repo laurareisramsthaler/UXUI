@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-color: rgb(129, 232, 196);
+}
+
+#app {
+    background-color: #fa8484;
+    color: #630404;
+}
+
+#myCarrossel
+{
+    background-color: #30b1fc;
+}
+
+#myCarrosel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : #043d5e;
+    font-size: 20px;
+}
